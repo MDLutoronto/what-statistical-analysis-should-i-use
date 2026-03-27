@@ -3,6 +3,9 @@ title: "What statistical analysis should I use? Statistical analysis using SAS (
 layout: "home"
 description: "UCLA's introductory guide to various statistical analyses in SAS"
 permalink: "/"  #! Remove this if not the homepage
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
 ---
 
 # What statistical analysis should I use? Statistical analysis using SAS (UCLA)
