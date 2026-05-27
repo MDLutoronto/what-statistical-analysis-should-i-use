@@ -4,8 +4,8 @@ layout: "home"
 description: "UCLA's introductory guide to various statistical analyses in SAS"
 permalink: "/"  #! Remove this if not the homepage
 maintainer:
- - name: Nadia Muhe
-   link: https://library.utoronto.ca/staff/nadia-muhe
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
 created_date: 2017-05-05
 ---
 
